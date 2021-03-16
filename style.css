@@ -1,0 +1,50 @@
+header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: #3F8F8D;
+    color: white;
+    padding: 15px;
+}
+img{
+    width:40px;
+    height:40p;
+    border-radius: 8px;
+}
+
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    min-height: 85vh;
+}
+
+table{
+    width: 50vw;
+}
+
+td{
+    text-align: center;
+}
+#image{
+    border-radius: 8px;
+}
+#fo{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 22px;
+    color: white;
+    background-color: #5Dc;
+    padding: 10px;
+
+}
+#tableContainer{
+    background-color: #f6b8d1;
+    border: 2px solid wheat;
+
+}
+#flowerForm{
+    border: 1px solid black;
+ 
+ 
+}
